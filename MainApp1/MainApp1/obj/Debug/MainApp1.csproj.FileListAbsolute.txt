@@ -1,0 +1,10 @@
+C:\Users\Mclin\source\repos\MainApp1\MainApp1\bin\Debug\MainApp1.exe.config
+C:\Users\Mclin\source\repos\MainApp1\MainApp1\bin\Debug\MainApp1.exe
+C:\Users\Mclin\source\repos\MainApp1\MainApp1\bin\Debug\MainApp1.pdb
+C:\Users\Mclin\source\repos\MainApp1\MainApp1\bin\Debug\ClassLibrary1.dll
+C:\Users\Mclin\source\repos\MainApp1\MainApp1\bin\Debug\ClassLibrary1.pdb
+C:\Users\Mclin\source\repos\MainApp1\MainApp1\obj\Debug\MainApp1.csprojAssemblyReference.cache
+C:\Users\Mclin\source\repos\MainApp1\MainApp1\obj\Debug\MainApp1.csproj.CoreCompileInputs.cache
+C:\Users\Mclin\source\repos\MainApp1\MainApp1\obj\Debug\MainApp1.csproj.CopyComplete
+C:\Users\Mclin\source\repos\MainApp1\MainApp1\obj\Debug\MainApp1.exe
+C:\Users\Mclin\source\repos\MainApp1\MainApp1\obj\Debug\MainApp1.pdb
